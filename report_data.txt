@@ -1,0 +1,41 @@
+
+outside + nest
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.0231
+The total time the parallel  algorithm used is :2.05211s
+The total time the algorithm used is :3.38137
+
+outside
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.022158
+The total time the parallel  algorithm used is :2.05054s
+The total time the algorithm used is :3.33784
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.022321
+The total time the parallel  algorithm used is :2.05141s
+The total time the algorithm used is :3.38096
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.022389
+The total time the parallel  algorithm used is :2.00974s
+The total time the algorithm used is :2.67541
+serial
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.020611
+The total time the parallel  algorithm used is :2.05516s
+The total time the algorithm used is :3.30859
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.020611
+The total time the parallel  algorithm used is :2.06674s
+The total time the algorithm used is :3.42628
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.01765
+The total time the parallel  algorithm used is :2.02655s
+The total time the algorithm used is :2.82566
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.020751
+The total time the parallel  algorithm used is :2.05821s
+The total time the algorithm used is :3.38435
+vo79tedi@i10staff2:~/git/wlgOpenMP02/headerspace$ ./result_nvpcomp23.out
+The total time the algorithm used is :0.020668
+The total time the parallel  algorithm used is :2.01475s
+The total time the algorithm used is :2.6860
