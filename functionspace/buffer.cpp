@@ -30,7 +30,7 @@ T1 *operator()(const int&k){
 
 
 ~Array2D(){
-for(int i=0;i<matImg.arows;i++){
+for(int i=0;i<arows;i++){
 delete[] matImg[i];
    }
    delete [] matImg;
